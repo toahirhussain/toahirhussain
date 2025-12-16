@@ -9,6 +9,6 @@ I bring strong analytical thinking and a self-driven mindset, with a deep passio
 
 
 ### 🌐 Connect with Me
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN_USERNAME/" target="_blank">
+<a href="https://www.linkedin.com/in/md-toahir-hussain-79009a14b/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
 </a>
