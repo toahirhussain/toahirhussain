@@ -6,9 +6,11 @@ I bring strong analytical thinking and a self-driven mindset, with a deep passio
 <a href="https://www.linkedin.com/in/md-toahir-hussain-79009a14b/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
 </a>
+
 <a href="https://www.facebook.com/ToahirTayef07/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="30" height="30"/>
 </a>
+
 <a href="https://www.kaggle.com/mdtoahirhussain" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="30" height="30"/>
 </a>
