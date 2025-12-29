@@ -4,8 +4,9 @@ I’m a Data Analyst / Data Scientist / Analytics Engineer with a strong foundat
 
 I bring a structured, analytical mindset, strong attention to detail, and a continuous learning attitude. My work focuses on building scalable data solutions, uncovering patterns through analytics, and delivering insights through clear visual storytelling.
 
-🚀 **What I Do**
 ---
+🚀 **What I Do**
+
 📊 Design and build data analytics & BI solutions
 
 🔍 Perform exploratory data analysis (EDA) and statistical modeling
@@ -16,10 +17,12 @@ I bring a structured, analytical mindset, strong attention to detail, and a cont
 
 🧠 Translate business questions into data-driven insights
 
-###💡 Philosophy
 ---
+### 💡 Philosophy
+
 >  “Turning data into insight, and insight into impact.”
 
+---
 ### 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/md-toahir-hussain-79009a14b/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
