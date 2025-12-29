@@ -7,13 +7,17 @@ I bring a structured, analytical mindset, strong attention to detail, and a cont
 🚀 **What I Do**
 
 📊 Design and build data analytics & BI solutions
+
 🔍 Perform exploratory data analysis (EDA) and statistical modeling
+
 🤖 Develop machine learning models for prediction and classification
+
 📈 Create interactive dashboards for decision-making
+
 🧠 Translate business questions into data-driven insights
 
 
-### 🌐 Connect with Me
+# 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/md-toahir-hussain-79009a14b/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
 </a>
