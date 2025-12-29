@@ -5,6 +5,7 @@ I’m a Data Analyst / Data Scientist / Analytics Engineer with a strong foundat
 I bring a structured, analytical mindset, strong attention to detail, and a continuous learning attitude. My work focuses on building scalable data solutions, uncovering patterns through analytics, and delivering insights through clear visual storytelling.
 
 <hr style="border: 0.3px solid #555; margin: 8px 0;">
+
 🚀 **What I Do**
 
 📊 Design and build data analytics & BI solutions
@@ -17,7 +18,7 @@ I bring a structured, analytical mindset, strong attention to detail, and a cont
 
 🧠 Translate business questions into data-driven insights
 
----
+- - -
 ### 💡 Philosophy
 
 >  “Turning data into insight, and insight into impact.”
