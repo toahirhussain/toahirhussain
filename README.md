@@ -1,4 +1,4 @@
-👋 Hi, I'm Toahir Hussain
+#👋 Hi, I'm Toahir Hussain
 
 I’m a Data Analyst / Data Scientist / Analytics Engineer with a strong foundation in data-driven problem solving, business intelligence, and machine learning. I enjoy transforming raw data into meaningful insights that drive smarter decisions, optimize performance, and create real-world impact.
 
