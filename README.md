@@ -16,8 +16,11 @@ I bring a structured, analytical mindset, strong attention to detail, and a cont
 
 🧠 Translate business questions into data-driven insights
 
+# 💡 Philosophy
 
-# 🌐 Connect with Me
+< “Turning data into insight, and insight into impact.”
+
+### 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/md-toahir-hussain-79009a14b/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
 </a>
