@@ -1,5 +1,20 @@
-I bring strong analytical thinking and a self-driven mindset, with a deep passion for solving real-world problems through data analytics and machine learning. I am highly adaptable and detail-oriented, with a structured approach to problem-solving that emphasizes accuracy, efficiency, and impact. I am committed to continuous learning and consistently seek to improve my technical skills, explore new methodologies, and apply data-driven insights to deliver meaningful and practical solutions.
+👋 Hi, I'm Toahir Hussain
 
+I’m a Data Analyst / Data Scientist / Analytics Engineer with a strong foundation in data-driven problem solving, business intelligence, and machine learning. I enjoy transforming raw data into meaningful insights that drive smarter decisions, optimize performance, and create real-world impact.
+
+I bring a structured, analytical mindset, strong attention to detail, and a continuous learning attitude. My work focuses on building scalable data solutions, uncovering patterns through analytics, and delivering insights through clear visual storytelling.
+
+🚀 What I Do
+
+📊 Design and build data analytics & BI solutions
+
+🔍 Perform exploratory data analysis (EDA) and statistical modeling
+
+🤖 Develop machine learning models for prediction and classification
+
+📈 Create interactive dashboards for decision-making
+
+🧠 Translate business questions into data-driven insights
 
 
 ### 🌐 Connect with Me
