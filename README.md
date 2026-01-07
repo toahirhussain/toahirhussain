@@ -6,17 +6,17 @@ I bring a structured, analytical mindset, strong attention to detail, and a cont
 
 <hr style="border: 0.3px solid #555; margin: 2px 0;">
 
-### 🚀 **What I Do**
+### 🚀 What I Do
 
-📊 Design and build data analytics & BI solutions
+📊 Design and build end-to-end analytics and BI solutions using SQL, BigQuery, Power BI, and Python, from raw data ingestion to executive-ready dashboards.
 
-🔍 Perform exploratory data analysis (EDA) and statistical modeling
+🔎 Perform deep exploratory data analysis (EDA) and statistical analysis to uncover patterns, risks, trends, and performance gaps in business data.
 
-🤖 Develop machine learning models for prediction and classification
+🤖 Build and evaluate machine learning models (classification, regression, forecasting) to solve real business problems like prediction, segmentation, and performance optimization.
 
-📈 Create interactive dashboards for decision-making
+📈 Create decision-focused dashboards and reports in Power BI with KPIs, drill-downs, and storytelling for stakeholders.
 
-🧠 Translate business questions into data-driven insights
+🧠 Translate business questions into analytical solutions by turning messy, complex data into clear, actionable insights that drive strategy and operations.
 
 - - -
 ### 💡 Philosophy
