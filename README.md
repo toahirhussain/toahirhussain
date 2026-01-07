@@ -25,6 +25,8 @@ I bring a structured, analytical mindset, strong attention to detail, and a cont
 
 ---
 ### 🌐 Connect with Me
+email : toahirhussain222@gmail.com
+
 <a href="https://www.linkedin.com/in/md-toahir-hussain-79009a14b/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" height="30"/>
 </a>
